@@ -3,8 +3,12 @@
 eine Formschablone für die gängigen Formate der Deutschen Post.
 Die Vorlage eignet sich gut für den Lasercutter.
 
+<img src="formatschablone.png" width=600px alt="Formatschablone">
+
 - Rot: Schneiden
 - Schwarz: Gravieren
+
+
 
 
 ## Copyright and Authorship
